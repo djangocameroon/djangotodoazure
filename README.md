@@ -4,9 +4,9 @@ This is a simple Django todo app to manage your tasks.
 
 
 ## Description
-This project was build during an a workshop. The title of the workshop was "Building a Django App and Deploying it on Azure" -  so you can check a working version of this app here (link)[https://dj-cmr-todo.azurewebsites.net/]
+This project was build during an a workshop. The title of the workshop was "Building a Django App and Deploying it on Azure" -  so you can check a working version of this app here [link](https://dj-cmr-todo.azurewebsites.net/)
 
-if you want to learn how to deploy a web app on azure you can (follow)[https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/] this steps.
+if you want to learn how to deploy a web app on azure you can [follow](https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/) this steps.
 
 
 ## Getting Started
