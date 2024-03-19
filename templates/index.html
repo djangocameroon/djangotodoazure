@@ -1,28 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>My Todo</title>
-  </head>
-  <body>
-    <h2>My Django - Azure Todo</h2>
-    <ul>
-    {% for item in todo %} 
-        <li> 
-            {{ item.title }} - 
-            {% if item.completed %}
-                Completed
-            {% else %}
-                Not Completed
-            {% endif %}
-        </li>
-    {% endfor %}
-    <ul>
-    <form method="POST">
-        {% csrf_token %}
-        {{ form.as_p }}
-        <button type="submit">Add(+)</button>
-    </form>
-  </body>
-</html>
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="d-flex justify-content-end card card-body mt-2 col-md-8 h-75 " style="background-color: rgba(10, 10, 12, 0.1)">
+  <div class="card card-body border border-light rounded-lg text-light col-md-6 " style="background-color: rgba(10, 10, 12, 0.1)">
+
+  </div>
+  <div>
+    hello
+  </div>
+</div>
+  
+{% endblock content %}
