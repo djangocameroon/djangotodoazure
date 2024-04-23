@@ -3,6 +3,12 @@
 This is a simple Django todo app to manage your tasks.
 
 
+## User Interface
+![UI](<WhatsApp Image 2024-04-23 at 09.59.07.jpeg>)
+
+
+
+
 ## Description
 This project was build during an a workshop. The title of the workshop was "Building a Django App and Deploying it on Azure" -  so you can check a working version of this app here [link](https://dj-cmr-todo.azurewebsites.net/)
 
