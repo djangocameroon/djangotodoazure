@@ -53,7 +53,7 @@ We welcome contributions! Please follow these guidelines:
 - Fork the repository.
 - Create a new branch: `git checkout -b branch-name`.
 - Make your changes and commit them: `git commit -m 'Add new feature'`.
-- Push to the branch: `git push origin feature-name`.
+- Push to the branch: `git push origin branch-name`.
 - Submit a pull request.
 
 ## Contact
