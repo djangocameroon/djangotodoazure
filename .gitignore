@@ -10,6 +10,12 @@ Pipfile
 Pipfile.lock
 
 
+
+#pipenv 
+Pipfile
+Pipfile.lock
+
+
 # C extensions
 *.so
 

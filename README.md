@@ -2,12 +2,8 @@
 
 This is a simple Django todo app to manage your tasks.
 
-
 ## User Interface
 ![UI](<WhatsApp Image 2024-04-23 at 09.59.07.jpeg>)
-
-
-
 
 ## Description
 This project was build during an a workshop. The title of the workshop was "Building a Django App and Deploying it on Azure" -  so you can check a working version of this app here [link](https://dj-cmr-todo.azurewebsites.net/)
@@ -54,6 +50,7 @@ We welcome contributions! Please follow these guidelines:
 - Create a new branch: `git checkout -b branch-name`.
 - Make your changes and commit them: `git commit -m 'Add new feature'`.
 - Push to the branch: `git push origin branch-name`.
+
 - Submit a pull request.
 
 ## Contact
